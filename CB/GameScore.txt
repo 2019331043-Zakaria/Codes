@@ -1,0 +1,10 @@
+PlayerName Number_Playing Number_Winning
+Raihan 10 7
+Rakeeb 21 10
+Razeen 25 15
+Rishat 15 10
+Riaz 13 6
+a 5 1
+b 5 1
+c 3 1
+e 1 1
